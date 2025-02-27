@@ -1,4 +1,4 @@
-import { FETCH_SUCCESS } from "../actions/actions"
+import { FETCH_SUCCESS,FETCH_LOADING } from "../actions/actions"
 
 const initialState = {notes:[],loading:false,error:null}
 
