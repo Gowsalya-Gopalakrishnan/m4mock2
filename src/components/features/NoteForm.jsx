@@ -13,7 +13,7 @@ const NoteForm = () => {
 
     const handleGoogleLogin=()=>{
         dispatch(signin())
-        Navigate('/navList')   
+        // Navigate('/navList')   
     }
   return (
     <Box>
